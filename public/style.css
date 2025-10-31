@@ -1,0 +1,16 @@
+h1{
+    color:darkred;
+}
+.post{
+    background-color: lightcyan;
+}
+.user{
+
+    font-style: italic;
+    font-weight: bold;
+    color:darkorange;
+}
+.content{
+
+    color:blue;
+}
