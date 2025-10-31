@@ -38,14 +38,12 @@ A RESTful backend API built with Node.js and Express, featuring clean code struc
 ```bash
 git clone https://github.com/parshv98/express-rest-api.git
 cd express-rest-api
-npm install
+npm install express
+npm install ejs
+npm install nodemon(if possible)
+npm install method-override
 ```
 
-### Running the Server
-
-```bash
-npm start
-```
 
 By default, the server runs on `http://localhost:3000`.
 
