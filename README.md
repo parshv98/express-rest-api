@@ -42,6 +42,7 @@ npm install express
 npm install ejs
 npm install nodemon(if possible)
 npm install method-override
+npm install uuid
 ```
 
 
